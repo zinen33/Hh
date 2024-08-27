@@ -36,7 +36,6 @@
         "form-data": "^4.0.0",
         "fs-extra": "^11.1.1",
         "gifencoder": "^2.0.1",
-        "gtts": "^0.2.3",
         "helmet": "^7.1.0",
         "image-downloader": "^4.3.0",
         "imgbb-uploader": "^1.5.1",
@@ -67,4 +66,4 @@
         "youtube-search-api": "^1.2.1",
         "ytdl-core": "^4.11.5"
     }
-    }
+}
